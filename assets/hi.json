@@ -1,3 +1,22 @@
 {
-    "title": "नमस्ते"
+    "title": "Hello in Hindi",
+    "APP_NAME": "2Home Partner",
+    "APP_VERSION": "App Version ",
+    "ENGLISH": "अंग्रेज़ी",
+    "HINDI": "हिन्दी",
+    "LOGIN": "लॉग इन करें",
+    "REGISTER_LABEL": "रजिस्टर करें",
+    "FORGOT_PWD": "पासवर्ड भूल गए",
+    "PHONE_NO": "फ़ोन नंबर",
+    "PASSWORD": "PASSWORD",
+    "NAME": "नाम",
+    "EMAIL": "ईमेल",
+    "HAVE_REFERRAL_CODE": "रेफरल कोड है?",
+    "REFERRAL_CODE_APPLIED": "रेफरल कोड लागू",
+    "TERMS": "Terms & Conditions",
+    "PRIVACY": "गोपनीयता नीति",
+    "DISMISS": "DISMISS",
+    "VALIDATE": "VALIDATE",
+    "SELECT_LANGUAGE": "भाषा बदलें",
+    "LOGOUT": "लॉग आउट"
 }

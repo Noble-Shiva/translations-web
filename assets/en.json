@@ -1,3 +1,22 @@
 {
-    "title": "Hello!"
+    "title": "Hello",
+    "APP_NAME": "2Home Partner",
+    "APP_VERSION": "App Version ",
+    "ENGLISH": "English",
+    "HINDI": "Hindi",
+    "LOGIN": "LOGIN",
+    "REGISTER_LABEL": "REGISTER",
+    "FORGOT_PWD": "Forgot Password",
+    "PHONE_NO": "PHONE NUMBER",
+    "PASSWORD": "PASSWORD",
+    "NAME": "NAME",
+    "EMAIL": "EMAIL",
+    "HAVE_REFERRAL_CODE": "Have Referral Code?",
+    "REFERRAL_CODE_APPLIED": "Referral Code Applied",
+    "TERMS": "Terms & Conditions",
+    "PRIVACY": "Privacy Policy",
+    "DISMISS": "DISMISS",
+    "VALIDATE": "VALIDATE",
+    "SELECT_LANGUAGE": "Change Language",
+    "LOGOUT": "Logout"
 }

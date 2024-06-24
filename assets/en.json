@@ -88,7 +88,7 @@
         "AGE": "AGE",
         "AGE_DESC": "Please enter age",
         "AGE_ERR": "Partner should be more than 18 yrs old",
-        "ID_PROOF_NO": "ENTER ID PROOF NO",
+        "ID_PROF_NO": "ENTER ID PROOF NO",
         "ID_PROF_NO_DESC": "Number should be same as given on the id proof",
         "ID_PROF_NO_ERR": "Please enter ID",
         "RETAKE_ID": "RETAKE ID PROOF",

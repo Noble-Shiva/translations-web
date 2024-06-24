@@ -18,5 +18,19 @@
     "DISMISS": "DISMISS",
     "VALIDATE": "VALIDATE",
     "SELECT_LANGUAGE": "Change Language",
-    "LOGOUT": "Logout"
+    "LOGOUT": "Logout",
+    "LANG": {
+        "ADD_DEL_LANG": "ADD/ MODIFY LANGUAGE",
+        "CHNG_LANG": "Change Language",
+        "LANG_DESC_1": "Please Select Languages that you can speak",
+        "LANG_DESC_2": "Please Add/ Modify Languages that you can speak",
+        "ENGLISH": "English",
+        "HINDI": "हिंदी",
+        "KANNADA": "ಕನ್ನಡ",
+        "TELUGU": "తెలుగు",
+        "TAMIL": "தமிழ்",
+        "MALAYALAM": "മലയാളം",
+        "MARATHI": "मराठी",
+        "URDU": "Urdu"
+    },
 }

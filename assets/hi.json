@@ -388,7 +388,8 @@
         "TELUGU": "తెలుగు",
         "TAMIL": "தமிழ்",
         "MALAYALAM": "മലയാളം",
-        "MARATHI": "मराठी"
+        "MARATHI": "मराठी",
+        "URDU": "Urdu"
     },
     "MSGS": {
         "ENTER_VALID_OTP": "मान्य ओटीपी दर्ज करें",

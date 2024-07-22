@@ -1,8 +1,8 @@
 {
     "APP_NAME": "2Home భాగస్వామి",
     "APP_VERSION": "యాప్ వెర్షన్ ",
-    "ENGLISH": "ఇంగ్లీష్",
-    "HINDI": "హిందీ",
+    "ENGLISH": "English",
+    "HINDI": "हिन्दी",
     "SELECT_LANGUAGE": "భాషను మార్చండి",
     "AUTH": {
         "LOGIN": "లాగిన్",
@@ -383,7 +383,7 @@
         "CHNG_LANG": "భాషను మార్చండి",
         "LANG_DESC_1": "మీరు మాట్లాడగల భాషలను ఎంచుకోండి",
         "LANG_DESC_2": "మీరు మాట్లాడగల భాషలను జోడించండి/మార్చండి",
-        "ENGLISH": "ఆంగ్లం",
+        "ENGLISH": "English",
         "HINDI": "हिंदी",
         "KANNADA": "ಕನ್ನಡ",
         "TELUGU": "తెలుగు",

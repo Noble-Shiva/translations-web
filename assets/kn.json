@@ -1,7 +1,7 @@
 {
     "APP_NAME": "2Home ಪಾರ್ಟ್ನರ್",
     "APP_VERSION": "ಆಪ್ ಆವೃತ್ತಿ",
-    "ENGLISH": "ಇಂಗ್ಲಿಷ್",
+    "ENGLISH": "English",
     "HINDI": "ಹಿಂದಿ",
     "SELECT_LANGUAGE": "ಭಾಷೆಯನ್ನು ಬದಲಾಯಿಸಿ",
     "AUTH": {
@@ -383,8 +383,8 @@
         "CHNG_LANG": "ಭಾಷೆ ಬದಲಾಯಿಸಿ",
         "LANG_DESC_1": "ನೀವು ಮಾತನಾಡಬಹುದಾದ ಭಾಷೆಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ",
         "LANG_DESC_2": "ನೀವು ಮಾತನಾಡಬಹುದಾದ ಭಾಷೆಗಳನ್ನು ಸೇರಿಸಿ/ಬದಲಾಯಿಸಿ",
-        "ENGLISH": "ಇಂಗ್ಲಿಷ್",
-        "HINDI": "ಹಿಂದಿ",
+        "ENGLISH": "English",
+        "HINDI": "हिन्दी",
         "KANNADA": "ಕನ್ನಡ",
         "TELUGU": "తెలుగు",
         "TAMIL": "தமிழ்",

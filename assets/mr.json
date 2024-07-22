@@ -1,7 +1,7 @@
 {
     "APP_NAME": "2Home पार्टनर",
     "APP_VERSION": "अॅप आवृत्ती",
-    "ENGLISH": "इंग्रजी",
+    "ENGLISH": "English",
     "HINDI": "हिंदी",
     "SELECT_LANGUAGE": "भाषा बदला",
     "AUTH": {
@@ -383,7 +383,7 @@
         "CHNG_LANG": "भाषा बदला",
         "LANG_DESC_1": "कृपया निवडा की तुम्ही कोणत्या भाषेचा वापर करता",
         "LANG_DESC_2": "कृपया तुम्ही वापरू शकता अशा भाषांचा समावेश करा/सुधारा",
-        "ENGLISH": "अंग्रेजी",
+        "ENGLISH": "English",
         "HINDI": "हिंदी",
         "KANNADA": "ಕನ್ನಡ",
         "TELUGU": "తెలుగు",

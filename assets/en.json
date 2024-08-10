@@ -265,6 +265,7 @@
         "PROF_PIC_INSTR_1": "Picture should be clear and visible",
         "PROF_PIC_INSTR_2": "Donot upload blurry images",
         "PROF_PIC_INSTR_3": "Picture should be taken in a proper attire",
+        "PROF_PIC_INSTR_4": "Please make sure your face is in the center of the picture",
         "CURR_ADDR": "Your Current Address",
         "ADDR": "Address",
         "ADDR_1": "Address 1",
